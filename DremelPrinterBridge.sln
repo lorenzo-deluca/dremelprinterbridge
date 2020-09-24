@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DremelPrinterBridge.WebApi", "DremelPrinterBridge.WebApi\DremelPrinterBridge.WebApi.csproj", "{F36324BD-0BA3-4B68-8A90-DB2EB1300956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DremelPrinterBridge.Database", "DremelPrinterBridge.Database\DremelPrinterBridge.Database.csproj", "{40261DF3-275E-4C3B-B952-B24060DE7106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DremelPrinterBridge.Core", "DremelPrinterBridge.Core\DremelPrinterBridge.Core.csproj", "{2E0A5D88-0F50-4E71-9DCE-547521D235F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36324BD-0BA3-4B68-8A90-DB2EB1300956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36324BD-0BA3-4B68-8A90-DB2EB1300956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36324BD-0BA3-4B68-8A90-DB2EB1300956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36324BD-0BA3-4B68-8A90-DB2EB1300956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40261DF3-275E-4C3B-B952-B24060DE7106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40261DF3-275E-4C3B-B952-B24060DE7106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40261DF3-275E-4C3B-B952-B24060DE7106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40261DF3-275E-4C3B-B952-B24060DE7106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0A5D88-0F50-4E71-9DCE-547521D235F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0A5D88-0F50-4E71-9DCE-547521D235F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0A5D88-0F50-4E71-9DCE-547521D235F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0A5D88-0F50-4E71-9DCE-547521D235F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D756CC87-C16D-4338-BC9E-A1E11DDE059D}
+	EndGlobalSection
+EndGlobal
